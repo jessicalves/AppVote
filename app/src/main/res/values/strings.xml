@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppVote</string>
+    <string name="txtTitulo">Aplicativo Eleições 2022</string>
+    <string name="txtVotar">Votar</string>
+</resources>
